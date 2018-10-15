@@ -3,6 +3,7 @@
     <img src="http://fedrixt.com/ext/fedrixt_500.jpg" alt="fedrixt logo" width=72 height=72>
   </a>
   <h1 align="center">😎 FEDRIXT CONTACTS 😎</h1>
+  <!-- todo: finish description -->
   <p align="center">GETTING REDESIGNING... COMING SOON!!!</p>
   <p align="center">
     <br>
@@ -21,7 +22,5 @@
 </p>
 
 <br>
-
-
 
 <p align="center">*** ## 🤝 JUST GET IN TOUCH! 🤝 ***</p>
