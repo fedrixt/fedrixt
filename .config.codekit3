@@ -26,35 +26,31 @@
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
-		"ma": 1,
-		"oA": 0,
+		"ma": 0,
+		"oA": 2,
 		"oAP": "/css/bootstrap-3.css",
 		"oF": 0,
 		"oS": 1
-		},
-	"/css/bootstrap-3.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/css/bootstrap-3.css.map",
-		"oF": 0
 		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
-		"ma": 1,
-		"oA": 0,
+		"ma": 0,
+		"oA": 2,
 		"oAP": "/css/main.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/main.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/css/main.css.map",
-		"oF": 0
+	"/css/main2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/css/main2.css",
+		"oF": 0,
+		"oS": 1
 		},
 	"/favicon.ico": {
 		"cB": 0,
@@ -74,6 +70,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/fedrixt.gif": {
+		"ft": 4194304,
+		"iS": 14216,
+		"oA": 2,
+		"oAP": "/images/fedrixt.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -81,19 +85,16 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/js/embed.js": {
-		"ft": 64,
-		"ma": 1,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/js/embed.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
+	"/index2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/index2.html",
+		"oF": 0
 		},
 	"/js/infiniteSlider.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/js/infiniteSlider.js",
@@ -101,29 +102,39 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/jquery.easing.swing.js": {
+	"/js/jquery-easing_1.4.1.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 2,
-		"oAP": "/js/jquery.easing.swing.js",
+		"oAP": "/js/jquery-easing_1.4.1.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/jquery.js": {
+	"/js/jquery2.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 2,
-		"oAP": "/js/jquery.js",
+		"oAP": "/js/jquery2.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/jquery3.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/js/jquery3.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
 	"/js/main.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/js/main.js",
@@ -131,22 +142,22 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/sitepress.js": {
+	"/js/ui-min.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 2,
-		"oAP": "/js/sitepress.js",
+		"oAP": "/js/ui-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/ui-min.js": {
+	"/js/ui-min2.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 2,
-		"oAP": "/js/ui-min.js",
+		"oAP": "/js/ui-min2.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1950,13 +1961,13 @@
 		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 2,
 		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"outputStyle": 1,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
@@ -2001,7 +2012,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"minifyOutput": 0,
 		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
