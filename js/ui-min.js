@@ -4,6 +4,6 @@ $(document).ready(function () {
 	}, 0);
 	setTimeout(function () {
 		$("#loader-img").fadeOut(3000)
-	});
+	}, 0);
 });
 
