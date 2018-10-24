@@ -42,16 +42,6 @@
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/main2.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/css/main2.css",
-		"oF": 0,
-		"oS": 1
-		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -85,13 +75,6 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/index2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/index2.html",
-		"oF": 0
-		},
 	"/js/infiniteSlider.js": {
 		"ft": 64,
 		"ma": 0,
@@ -108,16 +91,6 @@
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/js/jquery-easing_1.4.1.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/jquery2.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/js/jquery2.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -148,16 +121,6 @@
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/js/ui-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/ui-min2.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/js/ui-min2.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
