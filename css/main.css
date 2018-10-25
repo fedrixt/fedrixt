@@ -32,3 +32,38 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	-o-transform: translate3d(-50%, -50%, 0);
 	transform: translate3d(-50%, -50%, 0);
 }
+
+/* go-top button */
+#go-top {
+	position: fixed;
+	bottom: 50px;
+	right: 50px;
+	z-index: 9000;
+	display: none;
+}
+#go-top a {
+	text-decoration: none;
+	border: 0 none;
+	display: block;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	line-height: 50px;
+	text-align: center;
+	background-color: #212121;
+	color: #cccccc;
+	text-transform: uppercase;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+#go-top a i {
+	font-size: 20px;
+	line-height: inherit;
+}
+#go-top a:hover, #go-top a:focus {
+	background: #d58512;
+	color: #d9534f;
+}
