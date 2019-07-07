@@ -17,7 +17,7 @@
     ·
     <a href="https://new.vk.com/fedrixt" target="_blank" title="fedrixt Vk">Vk</a>
     ·
-    <a href="http://fedrixt.com" target="_blank" title="fedrixt personal www page">FEDRIXT.COM</a>
+    <a href="https://fedrixt.github.io/fedrixt/" target="_blank" title="fedrixt personal www page">FEDRIXT</a>
   </p>
 </p>
 
