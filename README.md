@@ -15,7 +15,7 @@
     ·
     <a href="http://www.twitter.com/fedrixtSF" target="_blank" title="fedrixt Twitter">Twitter</a>
     ·
-    <a href="https://new.vk.com/fedrixt" target="_blank" title="fedrixt Vk">Vk</a>
+    <a href="https://new.vk.com/fedrixt" target="_blank" title="fedrixt Vk">VK</a>
     ·
     <a href="https://fedrixt.github.io/fedrixt/" target="_blank" title="fedrixt personal www page">FEDRIXT</a>
   </p>
@@ -23,4 +23,4 @@
 
 <br>
 
-<p align="center">*** ## 🤝 JUST GET IN TOUCH! 🤝 ***</p>
+<p align="center">*** ## 🤝 JUST GET IN TOUCH!!! 🤝 ***</p>
