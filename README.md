@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">😎 FEDRIXT CONTACTS 😎</h1>
   <!-- todo: finish description -->
-  <p align="center">GETTING REDESIGNING... COMING SOON!!!</p>
+  <p align="center">My Short Portfolio</p>
   <p align="center">
     <br>
     <a href="https://www.youtube.com/channel/UCh-fv0kIaIProZK08duUrPQ" target="_blank" title="fedrixt's YouTube">YouTube</a>
